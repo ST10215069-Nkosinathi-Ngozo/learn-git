@@ -13,11 +13,7 @@ namespace PROG6221_POE_PART1_ST10215069_NKOSINATHI_NGOZO
         static void Main(string[] args)
         {
             getIngridients();
-
-
-
             getSteps();
-
 
         }
         public static void getIngridients()

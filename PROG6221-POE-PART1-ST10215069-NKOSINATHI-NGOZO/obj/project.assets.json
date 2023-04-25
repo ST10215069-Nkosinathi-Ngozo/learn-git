@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Robert\\Source\\Repos\\learn-git\\PROG6221-POE-PART1-ST10215069-NKOSINATHI-NGOZO\\PROG6221-POE-PART1-ST10215069-NKOSINATHI-NGOZO.csproj",
+      "projectUniqueName": "C:\\Users\\Robert\\source\\repos\\PROG6221-POE-PART1-ST10215069-NKOSINATHI-NGOZO\\PROG6221-POE-PART1-ST10215069-NKOSINATHI-NGOZO.csproj",
       "projectName": "PROG6221-POE-PART1-ST10215069-NKOSINATHI-NGOZO",
-      "projectPath": "C:\\Users\\Robert\\Source\\Repos\\learn-git\\PROG6221-POE-PART1-ST10215069-NKOSINATHI-NGOZO\\PROG6221-POE-PART1-ST10215069-NKOSINATHI-NGOZO.csproj",
+      "projectPath": "C:\\Users\\Robert\\source\\repos\\PROG6221-POE-PART1-ST10215069-NKOSINATHI-NGOZO\\PROG6221-POE-PART1-ST10215069-NKOSINATHI-NGOZO.csproj",
       "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Robert\\Source\\Repos\\learn-git\\PROG6221-POE-PART1-ST10215069-NKOSINATHI-NGOZO\\obj\\",
+      "outputPath": "C:\\Users\\Robert\\source\\repos\\PROG6221-POE-PART1-ST10215069-NKOSINATHI-NGOZO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Robert\\AppData\\Roaming\\NuGet\\NuGet.Config",
