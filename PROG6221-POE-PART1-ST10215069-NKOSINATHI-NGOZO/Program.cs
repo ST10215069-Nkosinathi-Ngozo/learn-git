@@ -13,12 +13,15 @@ namespace PROG6221_POE_PART1_ST10215069_NKOSINATHI_NGOZO
         static void Main(string[] args)
         {
             getIngridients();
-
-
-
             getSteps();
-
-
+            display();
+            int i = 0;
+            while (true)
+            {
+                Console.WriteLine("fvhbhjd");
+                if (i == 50) { break; }
+                i++;
+            };
         }
         public static void getIngridients()
         {
@@ -103,6 +106,23 @@ namespace PROG6221_POE_PART1_ST10215069_NKOSINATHI_NGOZO
                 ingridientSteps[i] = steps;
             }
         }
+        public static void display()
+        {
+            for (int i = 0; i < ingridientName.Length; i++)
+            {
+                int step = i + 1;
+                string quantity = ingridientName[i];
 
+                string ingridient = "|" + step + ") " + ingridientName[i] + "" +
+                    ingridientUnitOfMeasurement[i] + " of " + ingridientQuantity[i] +
+                    "                    |";
+                Console.Write(ingridient);
+                if (ingridientName.Length - 1 > i)
+                {
+                    Console.WriteLine();
+                }
+            }
+
+        }
     }
 }
