@@ -14,6 +14,7 @@ namespace PROG6221_POE_PART1_ST10215069_NKOSINATHI_NGOZO
         {
             getIngridients();
             getSteps();
+<<<<<<< HEAD
             display();
             int i = 0;
             while (true)
@@ -22,6 +23,12 @@ namespace PROG6221_POE_PART1_ST10215069_NKOSINATHI_NGOZO
                 if (i == 50) { break; }
                 i++;
             };
+
+=======
+
+
+
+>>>>>>> 41d75897244dd7873cfc94cdfdad25199e558dce
         }
         public static void getIngridients()
         {
