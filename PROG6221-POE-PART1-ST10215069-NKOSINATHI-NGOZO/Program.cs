@@ -28,7 +28,6 @@ namespace PROG6221_POE_PART1_ST10215069_NKOSINATHI_NGOZO
 
 
 
->>>>>>> 41d75897244dd7873cfc94cdfdad25199e558dce
         }
         public static void getIngridients()
         {
